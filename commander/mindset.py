@@ -9,7 +9,6 @@ import subprocess
 import threading
 from datetime import datetime
 from commander.logic_core_extractor import extract_core_logic
-from Nomos.registry import register_agent
 
 signing_lock = threading.Lock()
 
