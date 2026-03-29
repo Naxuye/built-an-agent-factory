@@ -15,3 +15,5 @@ workspace/agent_factory/
 workspace/logs/
 workspace/nomos/agent_map.json
 workspace/nomos/nomos.log
+workspace/nomos/*.log
+workspace/Nomos/*.log
